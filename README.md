@@ -1,6 +1,6 @@
 # Dhiaa Hamed
 
-**Computer Science & Multimedia graduate · Kufstein, Austria**
+**Computer Science & Multimedia graduate · Data Science Enthusiast · Kufstein, Austria**
 
 I’m developing my skills in data science through Python projects, with a background in web development, graphic design and game development. I enjoy making complex information easier to understand through careful analysis and clear visuals.
 
